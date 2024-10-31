@@ -89,6 +89,13 @@ nav ul li a:hover {
   text-decoration: underline;
 }
 
+.project-img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
 /* CSS untuk Tabel di bagian Keterampilan */
 table {
   width: 100%;
